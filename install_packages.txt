@@ -1,0 +1,20 @@
+1. Create a new project :-
+
+> npx expo-cli init .  // add the project in current directory
+> npx expo-cli init app_name
+
+2. Install React Navigation and Navigation Stack :-
+
+> npm install react-navigation react-navigation-stack
+
+3. Install the following Dependencies :-
+
+> expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+4. Install masked view alternative package :-
+
+> npm i @react-native-masked-view/masked-view
+
+5. Install Axios for request API:-
+
+> npm install axios
